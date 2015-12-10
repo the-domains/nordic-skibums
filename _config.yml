@@ -1,0 +1,28 @@
+name: Nordic skibums
+favicon: null
+layout_spectrum: 0.14464129484258592
+typography_spectrum: 0.2251851768232882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.643936128122732
+  lightness: 0.42936557391658425
+  saturation: 0.7251117629930377
+  rhythmicContrast: 0.829182913294062
+purpose: []
